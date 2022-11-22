@@ -1,2 +1,2 @@
 # JS-Slider
-(Html - Css - Bootstrap - JavaScript )
+JS Slider From Scratch(Html - Css - Bootstrap - JavaScript )
