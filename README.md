@@ -1,2 +1,8 @@
 # JS-Slider
-JS Slider From Scratch(Html - Css - Bootstrap - JavaScript )
+JS Slider From Scratch By Using Pure JavaScript
+
+Technologies:
+.Html
+.Css
+.JavaScript
+.Bootstrap
